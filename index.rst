@@ -12,6 +12,7 @@ Welcome to Sample-Reading's documentation!
 
    install
    support
+   cookbook
 
 
 

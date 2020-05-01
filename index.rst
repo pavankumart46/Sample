@@ -8,7 +8,11 @@ Welcome to Sample-Reading's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+	1. Introduction
+	2. My Introduction
+	3. His Introduction
+	4. Her Introduction
 
 
 
